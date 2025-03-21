@@ -1,0 +1,88 @@
+good cooling δ=0.0001 optimal gains10
+
+The initial emittance is 0.9581378283507063π mm*mrad
+The final emittance after cooling is 0.13597433769444536π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 85.80847831376147%
+The initial rms_momentum_spread is 9.808125181036572e-05 
+The final rms_momentum_spread after cooling is 3.7743534455926717e-06 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.15180946824562%
+
+
+
+good cooling δ=0.0001 optimal gains11
+
+The initial emittance is 0.9581378283507063π mm*mrad
+The final emittance after cooling is 0.14156225977145498π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 85.22527181552432%
+The initial rms_momentum_spread is 9.808125181036572e-05 
+The final rms_momentum_spread after cooling is 2.433423254095551e-06 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.51897206736267%
+
+
+good cooling δ=0.0001 optimal gains12
+
+The initial emittance is 0.9581378283507063π mm*mrad
+The final emittance after cooling is 0.14764532293455085π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 84.59038787888161%
+The initial rms_momentum_spread is 9.808125181036572e-05 
+The final rms_momentum_spread after cooling is 2.433423254095551e-06 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.51897206736267%
+
+good cooling δ=0.0001 optimal gains13
+
+The initial emittance is 0.9722287147712514π mm*mrad
+The final emittance after cooling is 0.1343178519283568π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 86.18454177626718%
+The initial rms_momentum_spread is 9.997826448146118e-05 
+The final rms_momentum_spread after cooling is 2.8436086306115395e-06 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.15577316193678%
+
+
+
+gains vs emiitance and spread 10000 turns.png
+
+Best parameters for minimum final emittance: gain=0.001, gainL=2e-08
+Minimum final emittance: 0.0033034729364630217
+Best parameters for minimum RMS spread: gain=0.0001, gainL=2.133333333333333e-07
+Minimum RMS spread: 2.695248394067019e-06
+
+Best parameters for emittance and rms spread: gain=0.00039999999999999996, gainL=2.133333333333333e-07
+Minimum final emittance: 2.8284029985588172e-06
+Minimum final rms spread: 2.695248394067019e-06
+
+gains vs emiitance and spread 20000 turns.png
+
+
+Best parameters for minimum final emittance: gain=0.0006000000000000001, gainL=2e-08
+Minimum final emittance: 0.0030382201859021634
+Best parameters for minimum RMS spread: gain=0.0001, gainL=1.4888888888888886e-07
+Minimum RMS spread: 1.7003917647350538e-06
+
+
+3.51190666364508e-07
+3.9006211557423464e-07
+3.897006481901109e-07
+1.557060255289848e-07
+1.4069245362419563e-07
+Best parameters for emittance and rms spread: gain=0.0003, gainL=1.4888888888888886e-07
+Minimum final emittance: 1.4069245362419563e-07
+Minimum final rms spread: 1.7003917647350538e-06
+
+
+0.351190666364508
+0.0726186732391967
+0.01821446195758724
+0.006500078331098601
+0.0036855478474639445
+0.0030382201859021634
+Best parameters for emittance and rms spread: gain=0.0006000000000000001, gainL=2e-08
+Minimum final emittance: 0.0030382201859021634
+Minimum final rms spread: 1.4585824915101e-05
