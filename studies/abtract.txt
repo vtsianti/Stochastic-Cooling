@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+TITLE
+
+Stochastic cooling simulations on transverse and longitudinal plane.
+
+
+
+ABSTRACT
+
+Stochastic cooling is a technique for reducing the phase space volume of particle beams in accelerators improving the experimental conditions for facilities like Antiproton Decelerator at CERN. We present a stochastic cooling simulation model, for transverse and longitudinal plane. This work stydies the cooling performance of particle beams under different scenarios, like different gains or number of particles, applying a feedback mechanism on the longitudinal plane called filter cooling. Some cases of emittance and momentum spread reduction are presented,as well as some interesting scenarios of unsuccesful cooling. This model gives insights of stochastic cooling systems and limitations that arise and aims to be integrated with XSUITE for further applications .               
