@@ -1,0 +1,1956 @@
+good cooling δ=0.0001 optimal gains10
+
+The initial emittance is 0.9581378283507063π mm*mrad
+The final emittance after cooling is 0.13597433769444536π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 85.80847831376147%
+The initial rms_momentum_spread is 9.808125181036572e-05 
+The final rms_momentum_spread after cooling is 3.7743534455926717e-06 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.15180946824562%
+
+
+
+good cooling δ=0.0001 optimal gains11
+
+The initial emittance is 0.9581378283507063π mm*mrad
+The final emittance after cooling is 0.14156225977145498π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 85.22527181552432%
+The initial rms_momentum_spread is 9.808125181036572e-05 
+The final rms_momentum_spread after cooling is 2.433423254095551e-06 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.51897206736267%
+
+
+good cooling δ=0.0001 optimal gains12
+
+The initial emittance is 0.9581378283507063π mm*mrad
+The final emittance after cooling is 0.14764532293455085π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 84.59038787888161%
+The initial rms_momentum_spread is 9.808125181036572e-05 
+The final rms_momentum_spread after cooling is 2.433423254095551e-06 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.51897206736267%
+
+good cooling δ=0.0001 optimal gains13
+
+The initial emittance is 0.9722287147712514π mm*mrad
+The final emittance after cooling is 0.1343178519283568π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 86.18454177626718%
+The initial rms_momentum_spread is 9.997826448146118e-05 
+The final rms_momentum_spread after cooling is 2.8436086306115395e-06 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.15577316193678%
+
+
+
+gains vs emiitance and spread 10000 turns.png
+
+Best parameters for minimum final emittance: gain=0.001, gainL=2e-08
+Minimum final emittance: 0.0033034729364630217
+Best parameters for minimum RMS spread: gain=0.0001, gainL=2.133333333333333e-07
+Minimum RMS spread: 2.695248394067019e-06
+
+Best parameters for emittance and rms spread: gain=0.00039999999999999996, gainL=2.133333333333333e-07
+Minimum final emittance: 2.8284029985588172e-06
+Minimum final rms spread: 2.695248394067019e-06
+
+gains vs emiitance and spread 20000 turns.png
+
+
+Best parameters for minimum final emittance: gain=0.0006000000000000001, gainL=2e-08
+Minimum final emittance: 0.0030382201859021634
+Best parameters for minimum RMS spread: gain=0.0001, gainL=1.4888888888888886e-07
+Minimum RMS spread: 1.7003917647350538e-06
+
+
+3.51190666364508e-07
+3.9006211557423464e-07
+3.897006481901109e-07
+1.557060255289848e-07
+1.4069245362419563e-07
+Best parameters for emittance and rms spread: gain=0.0003, gainL=1.4888888888888886e-07
+Minimum final emittance: 1.4069245362419563e-07
+Minimum final rms spread: 1.7003917647350538e-06
+
+
+0.351190666364508
+0.0726186732391967
+0.01821446195758724
+0.006500078331098601
+0.0036855478474639445
+0.0030382201859021634
+Best parameters for emittance and rms spread: gain=0.0006000000000000001, gainL=2e-08
+Minimum final emittance: 0.0030382201859021634
+Minimum final rms spread: 1.4585824915101e-05
+
+big data -> 9910 mins -> almost 1 week
+
+========> 800 1 1.2499999999999998e-10 1e-07 25.600000000000005
+The initial emittance is 0.9987947024089994π mm*mrad
+The final emittance after cooling is 0.955293010218798π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 4.355418794801312%
+The initial rms_momentum_spread is 0.00010019779651678847 
+The final rms_momentum_spread after cooling is 9.93618196735848e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 0.8343265743010636%
+
+
+
+
+
+
+Best case scenario for 3000 particles, 20000 turns:
+
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.005568176996745872π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.42149584476526%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False    
+gainL= 0 (no cooling) gain =  0.0009777777777777777 
+Cooling time (τ) for RMS emittance: 0.000883 sec
+
+For double the particles(6000 particles):
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.14444796703023594π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 85.45246747200801%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.001410 sec
+70% increase
+
+
+
+For half the particles:
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+The initial emittance is 0.9645051974519893π mm*mrad
+The final emittance after cooling is 0.00022526140097826007π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.97664487432797%
+The initial rms_momentum_spread is 9.933124058759816e-05 
+The final rms_momentum_spread after cooling is 9.933124058759816e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.000439 sec
+
+
+3000 particles, 20000 turns:
+
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.004058875536051933π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.57830428799966%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False
+gainL=0 gain= 0.0006777777777777777
+Cooling time (τ) for RMS emittance: 0.001153 sec
+
+double the particles:
+
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.040051758567603304π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 95.96633810399331%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.002150 sec 
+86.4 % increace
+
+half the particles:
+The initial emittance is 0.9645051974519893π mm*mrad
+The final emittance after cooling is 0.0002983333788012132π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.96906876400568%
+The initial rms_momentum_spread is 9.933124058759816e-05 
+The final rms_momentum_spread after cooling is 9.933124058759816e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.000577 sec
+99.83% increase
+
+
+3000 particles, 10000 turns:
+
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.01608919753016131π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 98.62841742799654%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False
+gainL=0 , gain=0.001266666666 OPTIMAL
+Cooling time (τ) for RMS emittance: 0.000712 sec
+different fit: 0.000674 sec
+
+
+6000 particles, 10000 turns:
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.11564619914228311π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 88.35312896159452%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.001207 sec
+69.5% increase
+
+1500 particles, 10000 turns:
+The initial emittance is 0.9645051974519893π mm*mrad
+The final emittance after cooling is 0.001396313264199335π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.85523009436466%
+The initial rms_momentum_spread is 9.933124058759816e-05 
+The final rms_momentum_spread after cooling is 9.933124058759816e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.000362 sec
+96.68% increase
+
+3000 particles, 10000 turns:
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.01367037116164682π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 98.57972070118538%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False
+gainL=0 , gain=0.001266666666/1.3=0.00097435897 NOT OPTIMAL
+Cooling time (τ) for RMS emittance: 0.000853 sec
+different fit: 0.000820 sec
+
+
+6000 particles, 10000 turns:
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.07368302643567912π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 92.57929172786791%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.001582 sec
+85.46% increase
+
+3000 particles, 10000 turns:
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.02919187665880374π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 96.96711833045401%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False
+gain               =  0.001266666666*1.3 
+Cooling time (τ) for RMS emittance: 0.000593 sec
+new fit: Cooling time (τ) for RMS emittance: 0.000564 sec
+
+6000 particles, 10000 turns:
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.37506218115735773π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 62.227026156316995%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.000723 sec
+22% increase
+DIFFERENT FIT: Cooling time (τ) for RMS emittance: 0.001016 sec
+71.33 % increase
+
+3000 particles, 20000 turns:
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.004058875536051933π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.57830428799966%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False
+gain               =  0.0006777777777777777 OPTIMAL
+Cooling time (τ) for RMS emittance: 0.001153 sec
+new fit: 0.001102 sec
+
+1500 particles, 20000 turns:
+The initial emittance is 0.9645051974519893π mm*mrad
+The final emittance after cooling is 0.0002983333788012132π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.96906876400568%
+The initial rms_momentum_spread is 9.933124058759816e-05 
+The final rms_momentum_spread after cooling is 9.933124058759816e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.000577 sec
+99.83% increase
+
+6000 particles, 20000 turns:
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.040051758567603304π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 95.96633810399331%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.002150 sec
+
+3000 particles, 20000 turns:
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.004509832075037419π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.53145228746415%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False
+gain               =  0.0006777777777777777/1.3
+Cooling time (τ) for RMS emittance: 0.001419 sec
+new fit:  0.001386 sec
+
+
+6000 particles, 20000 turns:
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.03384733471952904π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 96.59119326535684%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.002712 sec
+
+3000 particles, 20000 turns:
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.004655027275643723π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.516367273658%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False
+gain               =  0.0006777777777777777*1.3
+Cooling time (τ) for RMS emittance: 0.000950 sec
+new fit:Cooling time (τ) for RMS emittance: 0.000887 sec
+
+
+
+6000 particles, 20000 turns:
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.08734470132684645π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 91.2034076365085%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.001638 sec
+New fit: 0.001692 sec
+
+
+3000 particles, 20000 turns:
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.009474151214819648π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.01568577142957%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False
+gain               =  0.0006777777777777777*1.7 
+Cooling time (τ) for RMS emittance: 0.000788 sec
+New fit: 0.000722 sec
+
+
+
+6000 particles, 20000 turns:
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.40907234310306084π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 58.80182089133858%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.000972 sec
+Cooling time (τ) for RMS emittance: 0.001357 sec
+
+
+3000 particles, 20000 turns:
+The initial emittance is 0.9625128784920122π mm*mrad
+The final emittance after cooling is 0.0059227004578858424π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.38466273124938%
+The initial rms_momentum_spread is 9.894413159745343e-05 
+The final rms_momentum_spread after cooling is 9.894413159745343e-05 
+Is rms_momentum_spread reduced? -->  False
+gain               =  0.0006777777777777777/1.7
+Cooling time (τ) for RMS emittance: 0.001774 sec
+
+6000 particles, 20000 turns:
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.0447924001186818π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 95.48890225919926%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+Cooling time (τ) for RMS emittance: 0.003434 sec
+
+
+
+case of feedback mechanism, applying this term once per turn (from pickup to kicker ) to taus of every particle:6000 particles, 20000 turns: -> exoume beltiwsi
+
+gain               = 0.0006777777777777777*1.7/2 
+The initial emittance is 0.9929379209312149π mm*mrad
+The final emittance after cooling is 0.2877884376325221π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 71.01647227224204%
+The initial rms_momentum_spread is 9.972311824013084e-05 
+The final rms_momentum_spread after cooling is 9.972311824013084e-05 
+Is rms_momentum_spread reduced? -->  False
+
+
+
+6000 particles, 20000 turns: noise!!!!!
+gain               = 0.0006777777777777777*1.7/2 
+
+The initial emittance is 1.003915411353526π mm*mrad
+The final emittance after cooling is 0.33046050775061936π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 67.0828334724858% se sxesi me Emittance is reduced by 67.07998499629551%
+The initial rms_momentum_spread is 0.00010021480500751968 
+The final rms_momentum_spread after cooling is 0.00010021480500751968 
+Is rms_momentum_spread reduced? -->  False
+
+6000p 20000t :
+
+gain               = 0.00008 #s long as I reduce the eta, i have to reduce gains as well... see book
+gainL              =  7.78947368e-07
+
+The initial emittance is 1.003915411353526π mm*mrad
+The final emittance after cooling is 19.545416851597732π mm*mrad
+Is emittance reduced? -->  False
+The initial rms_momentum_spread is 0.00010021480500751968 
+
+The final rms_momentum_spread after cooling is 1.776816855075889e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 82.26991655631556%
+Tcooling=0.00120749
+
+6000p 10000t :
+gain               = 0.00008 #s long as I reduce the eta, i have to reduce gains as well... see book
+gainL              =  9.57894737e-07
+The initial emittance is 1.003915411353526π mm*mrad
+The final emittance after cooling is 0.518961719939798π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 48.306230378502775%
+The initial rms_momentum_spread is 0.00010021480500751968 
+The final rms_momentum_spread after cooling is 1.875624008605686e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 81.28396289884566%
+Tcooling=0.00105688
+
+
+TESTING NOISE ON DELTA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+1500p 12000 turns, noise 0.000005 * sigdelt:
+
+gain               = 7e-4                                   #0.0006777777777777777/2 #s long as I reduce the eta, i have to reduce gains as well... see book
+gainL              = 9e-7  
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.007816097856891363π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.21105230975839%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 3.6100378517742774e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.34980096265127%
+Cooling time (τ) for RMS momentum spread: 0.000865 sec
+
+noise 0.00005 * sigdelt:
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.008581608779232919π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.13378254099474%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 4.392760173538918e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 95.55837096032806%
+Cooling time (τ) for RMS momentum spread: 0.000844 sec
+
+noise 0.0005 * sigdelt:
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.0032674977465099544π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.67018263496973%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 1.958045340713504e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.0201716682154%
+Cooling time (τ) for RMS momentum spread: 0.000859 sec
+
+noise 0.005 * sigdelt:
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.00047958637799261794π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.95159111718962%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 0.00014368204538314606 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 85.47195111862648%
+Cooling time (τ) for RMS momentum spread: 0.000811 sec
+
+noise 0.05 * sigdelt:
+
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.0002265650624679048π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.9771307900699%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 0.0013709562515304347 
+Is rms_momentum_spread reduced? -->  False
+
+1500p 12000 turns, noise 0 * sigdelt:
+
+gain               = 5e-4                                   #0.0006777777777777777/2 #s long as I reduce the eta, i have to reduce gains as well... see book
+gainL              = 1e-6       
+
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.02290873975989297π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 97.68761885395558%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 3.532206765712118e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.42849790907812%
+Cooling time (τ) for RMS momentum spread: 0.000751 sec
+
+1500p 12000 turns, noise 0.000005 * sigdelt:
+
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.023938598926265736π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 97.58366608552042%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 4.245657042658538e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 95.70711059375508%
+Cooling time (τ) for RMS momentum spread: 0.000757 sec
+
+1500p 12000 turns, noise 0.00005 * sigdelt:
+
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.02340735709473207π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 97.63728900882846%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 4.179089364873597e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 95.77441882800245%
+Cooling time (τ) for RMS momentum spread: 0.000752 sec
+
+1500p 12000 turns, noise 0.0005 * sigdelt:
+
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.012131498050383228π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 98.77546090884958%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 1.8931055290973794e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.08583392650176%
+Cooling time (τ) for RMS momentum spread: 0.000762 sec
+
+1500p 12000 turns, noise 0.005 * sigdelt:
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.0034729772943333037π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.64944177199496%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 0.0001416101878838374 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 85.68144178216019%
+Cooling time (τ) for RMS momentum spread: 0.000730 sec
+
+1500p 12000 turns, noise 0.05 * sigdelt:
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.002487417876616347π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 99.74892297609966%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 0.001292746095181468 
+Is rms_momentum_spread reduced? -->  False
+
+
+END OF TESTING NOISE ON DELTA!!!!!!!!!!!!!!!!!!!!!!
+
+TESTING SCALING:::::::::::
+
+1500p, 12000t:
+
+gain               = 5e-4                                   #0.0006777777777777777/2 #s long as I reduce the eta, i have to reduce gains as well... see book
+gainL              = 1e-6 
+The initial emittance is 0.9906991241076696π mm*mrad
+The final emittance after cooling is 0.02290873975989297π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 97.68761885395558%
+The initial rms_momentum_spread is 0.000988997535432039 
+The final rms_momentum_spread after cooling is 3.532206765712118e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.42849790907812%
+Cooling time (τ) for RMS momentum spread: 0.000751 sec
+
+3000p, 12000t(half the GainL):
+The initial emittance is 0.9950710928517883π mm*mrad
+The final emittance after cooling is 0.01066159382867021π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 98.92855958682159%
+The initial rms_momentum_spread is 0.0009956392510809652 
+The final rms_momentum_spread after cooling is 6.51549203458711e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 93.45597109845433%
+Cooling time (τ) for RMS momentum spread: 0.001544 sec
+105.59254327563248 % increase
+
+6000p, 12000t(/4 the GainL):
+The initial emittance is 1.003915411353526π mm*mrad
+The final emittance after cooling is 0.014804969228268312π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 98.52527722347567%
+The initial rms_momentum_spread is 0.0010021480500751968 
+The final rms_momentum_spread after cooling is 0.00014182227014504874 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 85.84817182107903%
+Cooling time (τ) for RMS momentum spread: 0.003117 sec
+
+101.87823834196892% increase
+
+12000p, 12000t(/8 the GainL):
+
+The initial emittance is 0.9990736010942259π mm*mrad
+The final emittance after cooling is 2.596398486333878π mm*mrad
+Is emittance reduced? -->  False
+The initial rms_momentum_spread is 0.0009987112955481057 
+The final rms_momentum_spread after cooling is 0.0003369242061661357 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 66.26410378374389%
+Cooling time (τ) for RMS momentum spread: 0.006017 sec
+
+OPTIMAL GAIN FOR LONGITUDINAL COOLING DELTA=0.0001, 6000 P 8000 TURNSOLL ,M:
+
+COOLING TIMES: [0.00139085 0.00120749 0.00105688 0.00098132 0.00096664 0.00093407
+ 0.00083981 0.00082    0.00076864 0.00077733 0.00080664 0.00070532
+ 0.00071072 0.00064024 0.0005666  0.00052415 0.00048569 0.00043831
+ 0.00041632 0.00043732]
+ 
+ GAINSl: [6.00000000e-07 7.78947368e-07 9.57894737e-07 1.13684211e-06
+ 1.31578947e-06 1.49473684e-06 1.67368421e-06 1.85263158e-06
+ 2.03157895e-06 2.21052632e-06 2.38947368e-06 2.56842105e-06
+ 2.74736842e-06 2.92631579e-06 3.10526316e-06 3.28421053e-06
+ 3.46315789e-06 3.64210526e-06 3.82105263e-06 4.00000000e-06]
+ 
+ OPTIMAL GAIN FOR LONGITUDINAL COOLING DELTA=0.004:
+ 
+ 1500 p 12000 t :
+ 
+ cooling times:
+ [2.34180514e-03 3.92136380e-04 2.11102366e-04 1.54746676e-04
+ 1.27793821e-04 1.15009189e-04 1.03273561e-04 9.43219109e-05
+ 9.00133368e-05 9.26682154e-05 9.19580183e-05 8.97263279e-05
+ 8.73738198e-05 8.07695171e-05 7.91065807e-05 7.87495236e-05
+ 7.74254854e-05 7.24625476e-05 7.47685327e-05 7.33562416e-05]
+ gains:
+ gainL_values [5.00000000e-07 2.05263158e-06 3.60526316e-06 5.15789474e-06
+ 6.71052632e-06 8.26315789e-06 9.81578947e-06 1.13684211e-05
+ 1.29210526e-05 1.44736842e-05 1.60263158e-05 1.75789474e-05
+ 1.91315789e-05 2.06842105e-05 2.22368421e-05 2.37894737e-05
+ 2.53421053e-05 2.68947368e-05 2.84473684e-05 3.00000000e-05]
+ 
+ cooling times:[0.02867817 0.00867378 0.00461844 0.00321498 0.00234181]
+ gains:gainL_values [5.000e-08 1.625e-07 2.750e-07 3.875e-07 5.000e-07]
+ 
+ cooling times: [1.94384265e-04 1.15789534e-04 9.51378544e-05 9.47112854e-05
+ 8.12045719e-05 7.65639401e-05 7.44660143e-05 6.83629357e-05
+ 6.10736321e-05 5.48729571e-05]
+ gainL_values [4.0e-06 8.0e-06 1.2e-05 1.6e-05 2.0e-05 2.4e-05 2.8e-05 3.2e-05 3.6e-05
+ 4.0e-05]
+
+cooling times: [1.94384265e-04 1.17970664e-04 9.88008302e-05 9.47253638e-05
+ 8.37169152e-05 7.97358612e-05 7.42160692e-05 7.32457477e-05
+ 6.47590508e-05 5.96683157e-05 5.48729571e-05]
+ gainL_values [4.00e-06 7.60e-06 1.12e-05 1.48e-05 1.84e-05 2.20e-05 2.56e-05 2.92e-05
+ 3.28e-05 3.64e-05 4.00e-05]
+ 
+ 
+  cooling times:[1.94406948e-04 1.15803045e-04 9.51489573e-05 9.47223405e-05
+ 8.12140482e-05 7.65728747e-05 7.44747046e-05 6.83709133e-05
+ 6.10807595e-05 5.48793610e-05]
+final_emittances: [1.43940977e-04 2.84963334e-05 4.32445322e-05 6.80224203e-05
+ 7.75675780e-05 1.01539405e-04 1.17826665e-04 1.30203826e-04
+ 1.47429472e-04 1.56958913e-04]
+delta20s: [0.00375176 0.00357717 0.00341223 0.00325746 0.00311476 0.00297724
+ 0.00285076 0.00273365 0.00262768 0.0025282 ]
+delta50s: [0.00348963 0.00308893 0.0027265  0.00241857 0.00215665 0.00196112
+ 0.00183076 0.00169455 0.0016109  0.00152145]
+delta100s: [0.00307636 0.0024013  0.00186109 0.00154117 0.001312   0.00118852
+ 0.00115567 0.00109548 0.00104734 0.00102038]
+turn50s: [266. 136.  91.  71.  57.  49.  44.  39.  35.  32.]
+gainL_values [4.0e-06 8.0e-06 1.2e-05 1.6e-05 2.0e-05 2.4e-05 2.8e-05 3.2e-05 3.6e-05
+ 4.0e-05]
+ 
+ ========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000194 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.15398297596711877π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 84.42270064665227%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00014394097717173828 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.34490342003934%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000116 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.16610487102577076π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 83.19641970960369%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 2.8496333350880634e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 99.27639194467915%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000095 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.17518687336748273π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 82.27766185136576%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 4.324453219241927e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.90189058859923%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000095 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.15777400793224994π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 84.03919046049008%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 6.802242033561743e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.27270509889121%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000081 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.16043633989158618π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 83.76986236335406%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 7.756757795786046e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.03032468946394%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000077 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.1707404177466241π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 82.7274763184032%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00010153940548102387 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.42160751582144%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000074 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.15294162098401656π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 84.52804669677893%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.0001178266646958227 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.00802476390002%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000068 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.1515989650306054π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 84.66387309955806%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.000130203826330935 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.69373121072967%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000061 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.1391559800046949π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 85.92263629321931%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00014742947210750972 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.25631998702752%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000055 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.13473985227806243π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 86.36938271533718%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.0001569589127349278 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.01433867961526%
+Optimal parameters:  gainL=4e-05, Cooling time=0.000055 sec
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ cooling times:[5.48793610e-05 4.48759161e-05 4.21299892e-05 3.69139021e-05
+ 3.29384969e-05 3.06182592e-05 2.97388518e-05 2.97257336e-05
+ 2.52325757e-05 2.45880055e-05]
+final_emittances: [0.00015696 0.0002057  0.00021506 0.00025099 0.00027207 0.00029337
+ 0.00032561 0.00037194 0.00039416 0.00049772]
+delta20s: [0.0025282  0.00237746 0.00225107 0.00214245 0.0020645  0.00199302
+ 0.00193397 0.0018885  0.00185012 0.00181718]
+delta50s: [0.00152145 0.00137171 0.0013187  0.00130046 0.00127287 0.00125101
+ 0.00123957 0.00122772 0.00118931 0.001188  ]
+delta100s: [0.00102038 0.00091342 0.00089121 0.00086258 0.00081197 0.00077565
+ 0.00079633 0.00078544 0.00072801 0.00072336]
+turn50s: [32. 28. 26. 24. 22. 20. 19. 18. 17. 17.]
+gainL_values [4.00000000e-05 4.66666667e-05 5.33333333e-05 6.00000000e-05
+ 6.66666667e-05 7.33333333e-05 8.00000000e-05 8.66666667e-05
+ 9.33333333e-05 1.00000000e-04]
+ 
+ ========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000055 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.13473985227806243π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 86.36938271533718%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.0001569589127349278 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.01433867961526%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000045 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.13429853149648624π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 86.41402781900716%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.0002056984121933796 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 94.77669543666974%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000042 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.13170730267049496π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 86.6761629470106%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00021506067913933054 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 94.53895917443776%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000037 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.13123671745667684π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 86.72376851315103%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.0002509885696971092 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 93.62664141417791%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000033 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.12308217870441222π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 87.54870185681901%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00027207219172750236 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 93.09126450976431%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000031 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.12270969445223018π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 87.58638328662775%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.0002933720213770065 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 92.55039744025179%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000030 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.11987935245438236π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 87.87270769551724%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00032560906697765956 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 91.73180139180063%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000030 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.11647978605475034π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 88.21661625518787%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.0003719444925133465 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 90.55520485387075%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000025 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.11583781542040983π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 88.28155959508875%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.0003941569611024336 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 89.99116312254648%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000025 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.11615348787339035π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 88.24962538764278%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.0004977159601940486 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 87.36148705085847%
+Optimal parameters:  gainL=0.0001, Cooling time=0.000025 sec
+
+
+cooling times:[2.40142200e-05 1.89802487e-05 1.44804402e-05 1.66196455e+01
+ 7.26494866e+00]
+final_emittances: [0.00046859 0.0006214  0.00075438 0.00199928 0.00324668]
+delta20s: [0.00181718 0.00174636 0.00169661 0.00165043 0.00165513]
+delta50s: [0.001188   0.00113223 0.00107953 0.00107377 0.00110724]
+delta100s: [0.00072336 0.00064252 0.00066398 0.00074025 0.00082197]
+turn50s: [17. 15. 14. 13. 12.]
+gainL_values [0.0001   0.000125 0.00015  0.000175 0.0002  ]
+
+
+cooling times:[ 7.26494866e+00  1.13785909e-03 -6.79016403e-04 -7.00893959e-04
+  0.00000000e+00]
+final_emittances: [3.24668064e-03 2.38780898e-02            nan 8.01371762e+13
+ 0.00000000e+00]
+delta20s: [0.00165513 0.00167011 0.00168593 0.00169485 0.        ]
+delta50s: [0.00110724 0.00113228 0.00117384 0.00120911 0.        ]
+delta100s: [0.00082197 0.00090699 0.00103884 0.00113743 0.        ]
+turn50s: [12. 12. 12. 12.  0.]
+gainL_values [0.0002   0.000225 0.00025  0.000275 0.0003  ]
+
+
+
+
+
+
+cooling times:[1.94416671e-04 1.00322100e-04 8.69304372e-05 7.90465998e-05
+ 7.13986337e-05 6.45390251e-05 5.55754692e-05 4.59778254e-05
+ 3.99224235e-05 3.69157483e-05]
+final_emittances: [2.20249360e-04 3.48534077e-05 6.24731569e-05 9.06328801e-05
+ 1.22366646e-04 1.33228812e-04 1.55159980e-04 2.17301456e-04
+ 2.24730238e-04 2.46077404e-04]
+delta20s: [0.00375176 0.00348462 0.00324187 0.00302294 0.00282407 0.0026481
+ 0.00249657 0.00236318 0.00224359 0.00214245]
+delta50s: [0.00348963 0.00288057 0.00238503 0.00201727 0.00179449 0.00161907
+ 0.00149007 0.00136444 0.00130684 0.00130046]
+delta100s: [0.00307636 0.00207346 0.00149921 0.0012137  0.00111766 0.00105639
+ 0.00101373 0.00092949 0.00087645 0.00086258]
+turn50s: [266. 106.  69.  51.  42.  36.  31.  28.  25.  24.]
+gainL_values [4.00000000e-06 1.02222222e-05 1.64444444e-05 2.26666667e-05
+ 2.88888889e-05 3.51111111e-05 4.13333333e-05 4.75555556e-05
+ 5.37777778e-05 6.00000000e-05]
+
+
+
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000194 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.19734826410120643π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 80.03576065821414%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00022024935984555204 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 94.40720288462747%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000100 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.2214117700452892π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 77.60143677774775%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 3.485340770991582e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 99.11496660767772%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000087 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.21642455716090145π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 78.10595558933097%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 6.24731569381949e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.41361767336275%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000079 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.21209547523583117π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 78.54389624250024%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 9.063288012596063e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.6985571677401%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000071 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.2037472467196769π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 79.3884237225644%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00012236664599173322 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.89274091329806%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000065 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.19928283671525687π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 79.84005449952626%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.000133228812364364 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.61691767005165%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000056 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.1916294748480007π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 80.614287547803%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00015515997969511167 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.06001902812066%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000046 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.18570672473374208π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 81.21344762342449%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00021730145598883172 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 94.48205907580017%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000040 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.17811225028428812π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 81.9817234746183%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00022473023774079455 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 94.29341984805282%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000037 sec
+The initial emittance is 0.9885088067850877π mm*mrad
+The final emittance after cooling is 0.18548983681299483π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 81.23538854284358%
+The initial rms_momentum_spread is 0.003938089569531641 
+The final rms_momentum_spread after cooling is 0.00024607740389301494 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 93.75135076162626%
+Optimal parameters:  gainL=6e-05, Cooling time=0.000037 sec
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3000p, 8000 t -> gainL_values = np.linspace(4e-6/2, 6e-5/2, 10)  auta tha ta vlaw kai sta 1500 paricles
+
+
+cooling times:[6.11915261e-05 2.98163393e-05 2.05508307e-05 1.76165338e+01
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00]
+final_emittances: [0.0002846  0.00057184 0.0008615  0.00246122 0.         0.
+ 0.         0.         0.         0.        ]
+delta20s: [0.00290293 0.00240084 0.00221353 0.00213682 0.         0.
+ 0.         0.         0.         0.        ]
+delta50s: [0.0019565  0.0015695  0.00147316 0.00147125 0.         0.
+ 0.         0.         0.         0.        ]
+delta100s: [0.00128391 0.00097088 0.00095583 0.00106856 0.         0.
+ 0.         0.         0.         0.        ]
+turn50s: [49. 31. 26. 25.  0.  0.  0.  0.  0.  0.]
+gainL_values [3.0e-05 6.0e-05 9.0e-05 1.2e-04 1.5e-04 1.8e-04 2.1e-04 2.4e-04 2.7e-04
+ 3.0e-04]
+
+
+
+
+
+
+
+cooling times:[4.05090742e-04 1.72232400e-04 1.38098661e-04 1.28769489e-04
+ 1.09761383e-04 9.78883444e-05 8.36596698e-05 7.85316434e-05
+ 6.95337042e-05 6.17615235e-05]
+final_emittances: [1.81400380e-04 4.00153231e-05 6.86488008e-05 9.96873284e-05
+ 1.24716825e-04 1.53810926e-04 1.83238554e-04 2.05654212e-04
+ 2.64821317e-04 2.82331854e-04]
+delta20s: [0.00387384 0.0037347  0.003605   0.00348256 0.00336746 0.00326256
+ 0.00316414 0.00307137 0.00298251 0.00290293]
+delta50s: [0.00373619 0.00340565 0.00310083 0.0028299  0.00261091 0.00242353
+ 0.00226941 0.00215855 0.0020545  0.0019565 ]
+delta100s: [0.00351549 0.00291041 0.0024134  0.00205709 0.00178996 0.001615
+ 0.0014906  0.00143692 0.00134568 0.00128391]
+turn50s: [544. 223. 142. 105.  85.  72.  63.  58.  53.  49.]
+gainL_values [2.00000000e-06 5.11111111e-06 8.22222222e-06 1.13333333e-05
+ 1.44444444e-05 1.75555556e-05 2.06666667e-05 2.37777778e-05
+ 2.68888889e-05 3.00000000e-05]
+ 
+ 
+ 
+ 
+ 
+ cooling times:[6.11915261e-05 4.10808462e-05 3.32655293e-05 2.56711918e-05
+ 2.03128782e-05 1.85130671e-05 1.57541373e-05 1.53314460e+01
+ 2.72235183e+01 0.00000000e+00]
+final_emittances: [0.0002846  0.00040058 0.00051409 0.00065369 0.00079401 0.00087772
+ 0.0016052  0.00333616 0.00533136 0.        ]
+delta20s: [0.00290293 0.00262193 0.00243471 0.00232978 0.002256   0.0021912
+ 0.00216472 0.00212861 0.00211551 0.        ]
+delta50s: [0.0019565  0.00172432 0.00160151 0.00151783 0.00146547 0.00143841
+ 0.00146351 0.00146654 0.00149078 0.        ]
+delta100s: [0.00128391 0.00109322 0.00101872 0.00093326 0.00089952 0.00097781
+ 0.00103272 0.0010899  0.00117781 0.        ]
+turn50s: [49. 39. 32. 29. 27. 25. 25. 25. 24.  0.]
+gainL_values [3.00000000e-05 4.33333333e-05 5.66666667e-05 7.00000000e-05
+ 8.33333333e-05 9.66666667e-05 1.10000000e-04 1.23333333e-04
+ 1.36666667e-04 1.50000000e-04]
+ 
+ ========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000405 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.07089344352974218π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 92.74931936827397%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 0.0001814003801569619 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 95.42746985214316%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000172 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.1109471746531299π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 88.652793680918%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 4.00153230672413e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.99134020037404%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000138 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.11175590959210054π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 88.5700797024986%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 6.864880078438643e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.26958074217256%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000129 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.10081334960278492π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 89.68923831330505%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 9.968732843129203e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.48719757799309%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000110 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.0999766296961236π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 89.7748144754908%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 0.00012471682497562674 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.85628309239156%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000098 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.08719762694811843π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 91.08179666036469%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 0.000153810926143595 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.12291277309996%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000084 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.08385478674665268π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 91.42368817383806%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 0.00018323855397589124 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 95.38113530093229%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000079 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.076819879968412π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 92.14318859282375%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 0.00020565421217719245 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 94.81610741719348%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000070 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.07181632609711017π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 92.65493085470479%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 0.00026482131708319384 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 93.32469173928803%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000062 sec
+The initial emittance is 0.9777488091192607π mm*mrad
+The final emittance after cooling is 0.0719454175182713π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 92.64172793183164%
+The initial rms_momentum_spread is 0.003967177345828656 
+The final rms_momentum_spread after cooling is 0.0002823318538125011 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 92.88330646197697%
+Optimal parameters:  gainL=3e-05, Cooling time=0.000062 sec
+
+4500p, 8000 t -> gainL_values = np.linspace(4e-6/3, 6e-5/3, 10) 
+
+ cooling times:[6.59694038e-04 2.41148301e-04 1.76075515e-04 1.57501437e-04
+ 1.51662071e-04 1.28597766e-04 1.11932291e-04 9.89937211e-05
+ 9.01754606e-05 7.93241419e-05]
+final_emittances: [3.35086866e-04 5.05402979e-05 6.58780954e-05 8.91522296e-05
+ 1.25688056e-04 1.50349630e-04 1.74467053e-04 2.11246351e-04
+ 2.33641919e-04 2.56922894e-04]
+delta20s: [0.00389739 0.00380368 0.00371509 0.00363096 0.00355128 0.00347511
+ 0.00340384 0.00333559 0.00327153 0.0032114 ]
+delta50s: [0.00380643 0.00358338 0.00337762 0.00318512 0.00300985 0.00284752
+ 0.00271082 0.00259049 0.00250148 0.00240478]
+delta100s: [0.00365183 0.00322786 0.00285187 0.00254784 0.00229593 0.00208085
+ 0.00194487 0.00180713 0.00171109 0.0016424 ]
+turn50s: [816. 331. 212. 158. 127. 108.  96.  84.  78.  73.]
+gainL_values [1.33333333e-06 3.40740741e-06 5.48148148e-06 7.55555556e-06
+ 9.62962963e-06 1.17037037e-05 1.37777778e-05 1.58518519e-05
+ 1.79259259e-05 2.00000000e-05]
+ 
+ 6000p, 8000 t -> gainL_values = np.linspace(4e-6/4, 6e-5/4, 10) 
+ 
+ cooling times:[0.000858   0.0003376  0.00025926 0.00021976 0.00019782 0.00016534
+ 0.00014364 0.00012285 0.00011583 0.00010329]
+final_emittances: [3.51753712e-04 5.32118745e-05 6.83114741e-05 9.26900448e-05
+ 1.16976553e-04 1.46476666e-04 1.74553125e-04 2.06647633e-04
+ 2.31108195e-04 2.53726386e-04]
+delta20s: [0.00392706 0.00385745 0.00379116 0.0037275  0.00366631 0.00360886
+ 0.00355411 0.00350218 0.00345102 0.00340209]
+delta50s: [0.00385933 0.00369125 0.00353593 0.003388   0.00325253 0.00312888
+ 0.00301312 0.00290437 0.00280751 0.00271779]
+delta100s: [0.00374394 0.00341942 0.00314148 0.00287994 0.00265744 0.00246739
+ 0.00231802 0.00217149 0.00205877 0.00196945]
+turn50s: [1102.  446.  288.  214.  174.  147.  131.  116.  105.   98.]
+gainL_values [1.00000000e-06 2.55555556e-06 4.11111111e-06 5.66666667e-06
+ 7.22222222e-06 8.77777778e-06 1.03333333e-05 1.18888889e-05
+ 1.34444444e-05 1.50000000e-05]
+ 
+ ========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+The initial emittance is 1.003915411353526π mm*mrad
+The final emittance after cooling is 0.3946542466770879π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 60.688496041215615%
+The initial rms_momentum_spread is 0.00010021480500751968 
+The final rms_momentum_spread after cooling is 6.244810559799612e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 37.68574853455007%
+/tmp/vtsianti/ipykernel_1587476/89986025.py:764: UserWarning: Adding colorbar to a different Figure <Figure size 1200x1200 with 4 Axes> than <Figure size 800x800 with 4 Axes> which fig.colorbar is called on.
+  plt.colorbar(sc, ax=g.ax_joint, label='deltas')
+Indices of the 10 particles with the largest |δ|: [4229 3498 2156  963 5197 3197 3152 4288 1263 4380 5495 2469 4521 4215
+ 3890  568]
+Corresponding (τ, δ) values:
+Index 4229: (τ = 8.53543408590251e-08, δ = -0.00020958239054294714)
+Index 3498: (τ = 1.3742410645669133e-07, δ = 0.0002097420517572386)
+Index 2156: (τ = -4.8241315135026786e-08, δ = 0.00021417014344514044)
+Index 963: (τ = -3.493161384102538e-08, δ = 0.0002148477291236064)
+Index 5197: (τ = -6.377657963155589e-08, δ = -0.0002164648041633163)
+Index 3197: (τ = -6.41585980971395e-08, δ = -0.0002176523963455351)
+Index 3152: (τ = 1.35634831892293e-07, δ = 0.00022267545128943416)
+Index 4288: (τ = 1.3781844419353897e-07, δ = 0.0002231814631770577)
+Index 1263: (τ = 4.4277397580568516e-08, δ = -0.0002273463811902986)
+Index 4380: (τ = 1.3913015901076285e-07, δ = 0.00023328786818975188)
+Index 5495: (τ = 1.3755141656777824e-07, δ = 0.00023401452920325454)
+Index 2469: (τ = 1.0051224027716774e-07, δ = 0.00023510577955462075)
+Index 4521: (τ = -6.573044699786433e-08, δ = -0.00024214141143703372)
+Index 4215: (τ = 1.3724103124321602e-07, δ = 0.00025772104900686436)
+Index 3890: (τ = 1.37013921256982e-07, δ = 0.0002654797663898607)
+Index 568: (τ = -3.527915901810556e-08, δ = 0.0002774398562678507)
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000858 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.054510446071064866π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 94.54063660697688%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 0.0003517537118566897 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 91.148207445429%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000338 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.20201512708187364π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 79.76765796064325%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 5.321187452388264e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.66093673258187%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000259 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.27085988153757024π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 72.8726761843594%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 6.831147413906097e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 98.2809591546762%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000220 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.297200753171741π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 70.23456916625801%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 9.269004479025687e-05 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.66747863433628%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000198 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.286975783424613π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 71.25862656361383%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 0.000116976553106946 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 97.05631483919264%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000165 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.20851238987196896π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 79.11694014070733%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 0.00014647666591622249 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 96.31395201508533%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000144 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.21151808473427763π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 78.81591195832017%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 0.00017455312519706152 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 95.60741506936549%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000123 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.20226778945591967π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 79.74235316468061%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 0.00020664763331317555 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 94.79976494824727%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000116 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.16912768745201298π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 83.06142084365925%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 0.00023110819536781903 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 94.18422113512575%
+========> 800 1 3.87875e-10 3.103e-07 8.25008056719304
+Cooling time (τ) for RMS momentum spread: 0.000103 sec
+The initial emittance is 0.9984762351729018π mm*mrad
+The final emittance after cooling is 0.18891425694724145π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 81.07974428509779%
+The initial rms_momentum_spread is 0.0039738133229867256 
+The final rms_momentum_spread after cooling is 0.0002537263860360613 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 93.61504012862487%
+Optimal parameters:  gainL=1.5e-05, Cooling time=0.000103 sec
+
+
+10000p 300 turns:
+
+final_emittances: [0.00133627 0.00108758 0.00095863 0.00091302 0.00091113 0.00094961
+ 0.00098614 0.00103838 0.00111507 0.00118851]
+delta20s: [0.00363644 0.00352167 0.00342523 0.00334364 0.00327988 0.00322837
+ 0.00319059 0.00316118 0.00314311 0.00313049]
+delta50s: [0.00319956 0.00298264 0.00281128 0.00268486 0.00259053 0.00253924
+ 0.00251952 0.00249429 0.00247425 0.00248349]
+delta100s: [0.00259532 0.00230402 0.00210956 0.00199166 0.00188    0.00184798
+ 0.00182653 0.0018286  0.00181156 0.00185658]
+turn50s: [171. 132. 111. 100.  91.  87.  86.  84.  81.  86.]
+gainL_values [8.57142857e-06 1.23809524e-05 1.61904762e-05 2.00000000e-05
+ 2.38095238e-05 2.76190476e-05 3.14285714e-05 3.52380952e-05
+ 3.90476190e-05 4.28571429e-05]
+ 
+ final_emittances: [1.18851276e-03 1.44948004e-03 1.82278146e-03 2.21335193e-03
+ 4.21719044e-03 2.05370399e-02 5.82033157e-02 6.83343003e-02
+ 7.54462543e-02 6.21311074e+02            nan 1.18339878e+02
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00]
+delta20s: [0.00313049 0.00311649 0.00313453 0.00318529 0.00326507 0.00342707
+ 0.00375522 0.00449921 0.00624582 0.00903798 0.01245682 0.01646874
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.        ]
+delta50s: [0.00248349 0.00250672 0.00258362 0.00266573 0.00298786 0.00401952
+ 0.00632255 0.01125316 0.01963741 0.0299616  0.03805649 0.04409481
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.        ]
+delta100s: [0.00185658 0.00193741 0.00208859 0.00229648 0.00291583 0.00500317
+ 0.01481821 0.02915528 0.04393111 0.05296829 0.05973422 0.06479476
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.        ]
+turn50s: [ 86.  93. 119.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.
+   0.   0.   0.   0.   0.   0.]
+gainL_values [4.28571429e-05 5.48872180e-05 6.69172932e-05 7.89473684e-05
+ 9.09774436e-05 1.03007519e-04 1.15037594e-04 1.27067669e-04
+ 1.39097744e-04 1.51127820e-04 1.63157895e-04 1.75187970e-04
+ 1.87218045e-04 1.99248120e-04 2.11278195e-04 2.23308271e-04
+ 2.35338346e-04 2.47368421e-04 2.59398496e-04 2.71428571e-04]
+ 
+ 
+ 50000p 1250 turns:
+ 
+final_emittances: [0.00103638 0.00103214 0.00106609 0.00112828 0.0012239  0.0013462
+ 0.00146567 0.00159929 0.00175501 0.00191289 0.00207852 0.00224386
+ 0.00236205 0.00252045 0.00268144]
+delta20s: [0.00381309 0.00379194 0.00377549 0.00376338 0.00375472 0.00374869
+ 0.00374472 0.00374327 0.00374373 0.00374521 0.00374911 0.00375352
+ 0.00375999 0.00376713 0.00377572]
+delta50s: [0.00363609 0.00359197 0.00356161 0.00354088 0.0035269  0.00352013
+ 0.00351573 0.0035213  0.00353007 0.00353972 0.00355207 0.00356732
+ 0.00357874 0.0035993  0.00362204]
+delta100s: [0.0033672  0.00329681 0.00325756 0.00322414 0.00321479 0.00321125
+ 0.00320819 0.00321747 0.00324709 0.0032746  0.00328285 0.00330045
+ 0.00333535 0.00338548 0.00341051]
+turn50s: [493. 447. 433. 422. 427. 444. 465. 488. 544. 614.   0.   0.   0.   0.
+   0.]
+gainL_values [4.00000000e-06 5.14285714e-06 6.28571429e-06 7.42857143e-06
+ 8.57142857e-06 9.71428571e-06 1.08571429e-05 1.20000000e-05
+ 1.31428571e-05 1.42857143e-05 1.54285714e-05 1.65714286e-05
+ 1.77142857e-05 1.88571429e-05 2.00000000e-05]
+ 
+ 
+ 
+ 
+ 
+ final_emittances: [0.00293829 0.0022388  0.00179048 0.00150719 0.00133324 0.00120882
+ 0.00113162 0.00108807 0.00105653 0.00103638]
+delta20s: [0.00392679 0.00390971 0.003894   0.00387952 0.00386607 0.00385385
+ 0.00384233 0.00383178 0.00382206 0.00381309]
+delta50s: [0.00390012 0.00385835 0.00382008 0.00378472 0.00375268 0.00372411
+ 0.00369888 0.00367553 0.00365498 0.00363609]
+delta100s: [0.00385466 0.00377169 0.00369736 0.00363091 0.0035724  0.0035205
+ 0.00347347 0.00343394 0.00340078 0.0033672 ]
+turn50s: [   0.    0. 1067.  854.  728.  642.  586.  545.  516.  493.]
+gainL_values [4.0e-07 8.0e-07 1.2e-06 1.6e-06 2.0e-06 2.4e-06 2.8e-06 3.2e-06 3.6e-06
+ 4.0e-06]
+ 
+ 
+ final_emittances: [0.00297451 0.00228845 0.00184515 0.00155962 0.00138157 0.00125331
+ 0.00117317 0.00112662 0.00109269 0.00106907]
+delta20s: [0.00392679 0.00390971 0.003894   0.00387952 0.00386607 0.00385385
+ 0.00384233 0.00383178 0.00382206 0.00381309]
+delta50s: [0.00390012 0.00385835 0.00382008 0.00378472 0.00375268 0.00372411
+ 0.00369888 0.00367553 0.00365498 0.00363609]
+delta100s: [0.00385466 0.00377169 0.00369736 0.00363091 0.0035724  0.0035205
+ 0.00347347 0.00343394 0.00340078 0.0033672 ]
+turn50s: [   0.    0. 1067.  854.  728.  642.  586.  545.  516.  493.]
+gainL_values = array([4.0e-07, 8.0e-07, 1.2e-06, 1.6e-06, 2.0e-06, 2.4e-06, 2.8e-06,
+       3.2e-06, 3.6e-06, 4.0e-06])
+ 
+ 20000p, 600 turns:
+ 
+ final_emittances: [0.002778   0.00202924 0.00158646 0.00133113 0.00114883 0.00104016
+ 0.00097513 0.00093994 0.00090729 0.00090505]
+delta20s: [0.00390592 0.00386345 0.00382461 0.00378858 0.00375572 0.0037252
+ 0.00369756 0.00367197 0.00364742 0.00362619]
+delta50s: [0.00384033 0.00373989 0.00364873 0.00356499 0.0034906  0.00342583
+ 0.00336835 0.00331284 0.00325971 0.00321663]
+delta100s: [0.00372871 0.00353727 0.00336503 0.00321857 0.00308839 0.00298399
+ 0.00289311 0.00281822 0.00274415 0.00267749]
+turn50s: [  0.   0. 431. 349. 291. 259. 237. 223. 203. 194.]
+gainL_values = array([1.e-06, 2.e-06, 3.e-06, 4.e-06, 5.e-06, 6.e-06, 7.e-06, 8.e-06,
+       9.e-06, 1.e-05])
+       
+       final_emittances: [0.002778   0.00223988 0.00187849 0.00162545 0.00143837 0.00128591
+ 0.00117298 0.00109354 0.00102653 0.00099102 0.00094412 0.00092984
+ 0.00091056 0.00090036 0.00090505]
+delta20s: [0.00390592 0.00387832 0.00385206 0.00382726 0.00380345 0.00378108
+ 0.0037604  0.00374023 0.00372144 0.00370346 0.00368651 0.00367016
+ 0.0036546  0.00363969 0.00362619]
+delta50s: [0.00384033 0.00377512 0.00371318 0.00365528 0.0035995  0.00354769
+ 0.00350118 0.00345709 0.00341746 0.00338023 0.0033439  0.0033091
+ 0.00327407 0.00324388 0.00321663]
+delta100s: [0.00372871 0.00360184 0.0034861  0.00337614 0.0032798  0.00319296
+ 0.00310593 0.00302702 0.00296955 0.00291878 0.00285261 0.00281154
+ 0.00276284 0.00271911 0.00267749]
+turn50s: [  0.   0. 547. 445. 381. 332. 299. 277. 257. 242. 227. 217. 208. 198.
+ 194.]
+gainL_values = array([1.00000000e-06, 1.64285714e-06, 2.28571429e-06, 2.92857143e-06,
+       3.57142857e-06, 4.21428571e-06, 4.85714286e-06, 5.50000000e-06,
+       6.14285714e-06, 6.78571429e-06, 7.42857143e-06, 8.07142857e-06,
+       8.71428571e-06, 9.35714286e-06, 1.00000000e-05])
+       
+final_emittances: [0.00090505 0.00092012 0.00097351 0.00107282 0.00118696 0.00133165
+ 0.00146882 0.00159345 0.0018031  0.0019376  0.00207658 0.00221167
+ 0.00243929 0.00326765 0.0044752 ]
+delta20s: [0.00362619 0.00357197 0.00352918 0.00349903 0.00347955 0.00346661
+ 0.00346441 0.00346433 0.00346459 0.00347091 0.00348128 0.00349385
+ 0.00350837 0.00352562 0.0035524 ]
+delta50s: [0.00321663 0.00312296 0.0030749  0.00304221 0.00301687 0.00302149
+ 0.00302972 0.00303399 0.00306592 0.0030769  0.00310779 0.00314687
+ 0.00315748 0.00322058 0.00327817]
+delta100s: [0.00267749 0.00258714 0.00249676 0.00249153 0.00246995 0.00248612
+ 0.00251688 0.00252407 0.00257462 0.00261029 0.00265206 0.00272843
+ 0.0027848  0.00283523 0.00305107]
+turn50s: [194. 176. 165. 167. 168. 170. 183. 192. 222. 257.   0.   0.   0.   0.
+   0.]
+gainL_values = array([1.00000000e-05, 1.28571429e-05, 1.57142857e-05, 1.85714286e-05,
+       2.14285714e-05, 2.42857143e-05, 2.71428571e-05, 3.00000000e-05,
+       3.28571429e-05, 3.57142857e-05, 3.85714286e-05, 4.14285714e-05,
+       4.42857143e-05, 4.71428571e-05, 5.00000000e-05])
+       
+       
+       
+       
+10000p 6.66667e-5 gainL  2000t noise:0.001 Nsamp=800
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.3896842782946236π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 60.924282063443215%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.0018440443785769048 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 53.551985212712125%
+
+noise:0.01
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.38792031399253346π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 61.101164158405524%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.0019583887090301915 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 50.6718662668571%
+
+no noise:
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.38600832694802917π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 61.29288928207837%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.0019400712453742784 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 51.13324877621517%
+
+noise:0.1
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.38779314267913867π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 61.113916303279275%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.00266280118952211 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 32.929038767505645%
+
+10000p 2e-5 gainL  2000t noise:0.001 Nsamp=800
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.4175707462246184π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 58.12795740839657%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.0005633774221751632 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 85.8095807562883%
+
+no noise:
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.41728591551693067π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 58.15651890038692%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.0005560962504332855 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 85.99297979845045%
+
+noise:0.01
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.42036548207813607π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 57.847714360365075%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.0005552177046579327 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 86.0151087166256%
+
+noise:0.0001
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.4138317142449488π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 58.50289005806039%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.000564705679445501 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 85.77612445011111%
+
+noise:0.1
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.41967931550601895π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 57.91651993688687%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.0005740484758871118 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 85.54079695348686%
+
+10000p 5e-5 gainL  2000t no noise Nsamp=800
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.3925373722068832π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 60.63818714206259%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.001390008324356256 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 64.98830074036634%
+
+noise:0.001
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.3949738454714501π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 60.39386899183382%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.0014262219012023693 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 64.07614874858676%
+
+noise:0.01
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.39390919035734245π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 60.50062763018754%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.00140792050913101 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 64.5371264449123%
+
+noise:0.1
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.3937405229330551π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 60.517540811097426%
+The initial rms_momentum_spread is 0.003970125283118864 
+The final rms_momentum_spread after cooling is 0.0014724589886969143 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 62.911523347692054%
+
+noise:0.0001
+
+The initial emittance is 0.9972543023452922π mm*mrad
+The final emittance after cooling is 0.39485433909940953π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 60.405852532216606%
+The initial rms_momentum_spread is 0.003970125283118864 delta distributions for different truns 50000p NG=0.2
+The final rms_momentum_spread after cooling is 0.001418428929550452 delta distributions for different truns 50000p NG=0.2
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 64.27243906932432%
+
+20000p 4e-5 GN=0.5 gainL  2000t noise=0.001 Nsamp=800
+
+The initial emittance is 0.9946367716306851π mm*mrad
+The final emittance after cooling is 0.404936962311494π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 59.28795577830802%
+The initial rms_momentum_spread is 0.0039522152327527964 
+The final rms_momentum_spread after cooling is 0.002452930085280915 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 37.935311190721755%
+
+no noise
+
+The initial emittance is 0.9946367716306851π mm*mrad
+The final emittance after cooling is 0.40094315233906835π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 59.6894902968718%
+The initial rms_momentum_spread is 0.0039522152327527964 
+The final rms_momentum_spread after cooling is 0.002607643863271728 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 34.02070206952134%
+
+noise=0.0001
+
+The initial emittance is 0.9946367716306851π mm*mrad
+The final emittance after cooling is 0.40380262722572763π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 59.40200093711575%
+The initial rms_momentum_spread is 0.0039522152327527964 
+The final rms_momentum_spread after cooling is 0.002246361602309308 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 43.161961836155555%
+
+noise=0.00001
+
+The initial emittance is 0.9946367716306851π mm*mrad
+The final emittance after cooling is 0.40080841329573225π mm*mrad
+Is emittance reduced? -->  True
+Emittance is reduced by 59.70303685448753%
+The initial rms_momentum_spread is 0.0039522152327527964 
+The final rms_momentum_spread after cooling is 0.002195870846701198 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 44.43949235093328%
+
+50000p 1.6e-5 GN=0.5 gainL  2000t noise=0.001 Nsamp=800
+
+The initial emittance is 0.998308330604426π mm*mrad
+The final emittance after cooling is 2.103764318112903π mm*mrad
+Is emittance reduced? -->  False
+The initial rms_momentum_spread is 0.003945394954300631 
+The final rms_momentum_spread after cooling is 0.0021509563916287684 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 45.48184867311842%
+
+no noise:
+
+The initial emittance is 0.998308330604426π mm*mrad
+The final emittance after cooling is 2.054432720008752π mm*mrad
+Is emittance reduced? -->  False
+The initial rms_momentum_spread is 0.003945394954300631 
+The final rms_momentum_spread after cooling is 0.0021620842449917997 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 45.19980204681295%
+
+noise=0.0001
+
+The initial emittance is 0.998308330604426π mm*mrad
+The final emittance after cooling is 2.1174797386348416π mm*mrad
+Is emittance reduced? -->  False
+The initial rms_momentum_spread is 0.003945394954300631 
+The final rms_momentum_spread after cooling is 0.0021691654828248164 
+Is rms_momentum_spread reduced? -->  True
+rms_momentum_spread is reduced by 45.0203209577195%
+
+noise=0.00001
+
+
+
+
+
+10000 p transverse cooling 600 turns
+
+final_emittances: [4.24581015e-01 1.23311383e-01 2.93055851e-01 2.33910539e+00
+ 2.26580086e+01 2.38802826e+02 2.70857111e+03 3.29922786e+04
+ 4.30933797e+05 6.02195773e+06 8.97243177e+07 1.41904485e+09
+ 2.36995326e+10 4.15631471e+11 7.61053164e+12]
+delta20s: [0.96826278 0.91521167 0.87018183 0.83181681 0.79905426 0.77105158
+ 0.7471327  0.7267497  0.70945458 0.69487832 0.68271519 0.67271082
+ 0.6646531  0.6583651  0.65369967]
+delta50s: [0.92860626 0.81145052 0.72066727 0.64992302 0.59482282 0.55225481
+ 0.51999664 0.49647196 0.48059729 0.47168632 0.46939277 0.47368137
+ 0.48482069 0.50339523 0.53033584]
+delta100s: [0.86470391 0.66171982 0.52607645 0.43576177 0.37787451 0.34515656
+ 0.33436225 0.34566914 0.38284789 0.45418397 0.57435233 0.7676758
+ 1.0735192  1.55507123 2.31356778]
+turn50s: [488. 171. 109.  83.  69.  60.  54.  50.  47.  45.  44.  44.  45.   0.
+   0.]
+gainL_values = array([0.0015    , 0.00460714, 0.00771429, 0.01082143, 0.01392857,
+       0.01703571, 0.02014286, 0.02325   , 0.02635714, 0.02946429,
+       0.03257143, 0.03567857, 0.03878571, 0.04189286, 0.045     ])
+       
+       
+       
+       
+20000 p transverse cooling 1200 turns
+
+final_emittances: [3.32706084e-01 1.47673056e+02 3.28898228e+06 8.72046046e+10
+ 2.77406172e+15 1.04679007e+20 4.52676505e+24 2.14994603e+29
+ 1.09017164e+34 5.76249725e+38]
+delta20s: [0.975698   0.93302679 0.89948919 0.87304606 0.85226343 0.83611003
+ 0.8238318  0.81487215 0.80882042 0.80537799]
+delta50s: [0.94814332 0.84960549 0.77889581 0.72876103 0.6951083  0.67595445
+ 0.67103146 0.68179129 0.71173713 0.76710808]
+delta100s: [0.90447468 0.72909543 0.62109143 0.56499397 0.56413994 0.64821061
+ 0.89957976 1.51995109 2.99034714 6.45026922]
+turn50s: [743. 234. 158.   0.   0.   0.   0.   0.   0.   0.]
+gainL_values = array([0.001     , 0.00366667, 0.00633333, 0.009     , 0.01166667,
+       0.01433333, 0.017     , 0.01966667, 0.02233333, 0.025     ])
+       
+       
+anamesa sta 0.00367 kai 0.0063 ->
+
+final_emittances: [5.10724408e+02 2.15522318e+04 9.32105237e+05 4.12781958e+07
+ 1.87332868e+09]
+delta20s: [0.92838424 0.91526101 0.90325845 0.89227775 0.88223232]
+delta50s: [0.83943343 0.81131838 0.78649721 0.76463591 0.74546331]
+delta100s: [0.71241211 0.66807849 0.63161371 0.60240325 0.58017146]
+turn50s: [218. 185. 164. 150. 145.]
+gainL_values = array([0.004, 0.005, 0.006, 0.007, 0.008])
+
+
+
+50000 p 3000 turns transverse gain:
+
+final_emittances: [5.10724408e+02 2.15522318e+04 9.32105237e+05 4.12781958e+07
+ 1.87332868e+09]
+delta20s: [0.92838424 0.91526101 0.90325845 0.89227775 0.88223232]
+delta50s: [0.83943343 0.81131838 0.78649721 0.76463591 0.74546331]
+delta100s: [0.71241211 0.66807849 0.63161371 0.60240325 0.58017146]
+turn50s: [218. 185. 164. 150. 145.]
+gainL_values = array([0.004, 0.005, 0.006, 0.007, 0.008])
+
+final_emittances: [2.10720368e+098 3.51210969e+109]
+delta20s: [0.91687947 0.91545412]
+delta50s: [0.88612036 0.92309158]
+delta100s: [3.26783311 6.67194575]
+turn50s: [0. 0.]
+gainL_values = array([0.009, 0.01 ])
+
+2000p 120 turns transverse gain:
+
+final_emittances: [0.02605788 0.01958624 0.01585011 0.01354897 0.01204937 0.01102906
+ 0.01031601 0.00981372 0.00946563 0.00923756 0.00910869 0.00906673
+ 0.00910522 0.00922207 0.00941864 0.00969926 0.01007106 0.01054388
+ 0.01113042 0.0118465  0.01271144 0.0137487  0.01498662 0.01645954
+ 0.01820927]
+delta20s: [0.47854083 0.43352029 0.39491551 0.36175468 0.33322772 0.3086558
+ 0.28746744 0.2691797  0.25338312 0.23972967 0.2279229  0.21770992
+ 0.20887472 0.2012327  0.19462594 0.18891937 0.18399743 0.17976128
+ 0.17612641 0.17302057 0.17038212 0.16815848 0.16630494 0.16478366
+ 0.16356286]
+delta50s: [0.17737538 0.1435375  0.11895921 0.10097584 0.08772026 0.07787732
+ 0.07051633 0.06497566 0.06078297 0.0575995  0.05518128 0.0533518
+ 0.05198283 0.0509808  0.05027722 0.04982184 0.04957772 0.04951784
+ 0.04962252 0.04987764 0.05027342 0.05080344 0.05146405 0.05225395
+ 0.05317399]
+delta100s: [0.04259407 0.03177667 0.02530628 0.02127692 0.01867052 0.01693037
+ 0.01574366 0.01492931 0.01437933 0.01402759 0.01383288 0.01376954
+ 0.0138221  0.01398213 0.01424646 0.01461605 0.01509534 0.01569198
+ 0.01641668 0.01728331 0.01830908 0.01951493 0.02092606 0.0225727
+ 0.02449107]
+turn50s: [20. 18. 16. 14. 13. 12. 11. 11. 10. 10.  9.  9.  8.  8.  8.  8.  7.  7.
+  7.  7.  7.  7.  6.  6.  6.]
+cooling_times: [1.77078198e-05 1.55980919e-05 1.40356299e-05 1.28364860e-05
+ 1.18904576e-05 1.11276718e-05 1.05017700e-05 9.98080510e-06
+ 9.54203653e-06 9.16884293e-06 8.84875016e-06 8.57220090e-06
+ 8.33171182e-06 8.12135221e-06 7.93626839e-06 7.77250165e-06
+ 7.62670240e-06 7.49601448e-06 7.37795039e-06 7.27029997e-06
+ 7.17104824e-06 7.07835329e-06 6.99043915e-06 6.90559818e-06
+ 6.82214395e-06]
+gainL_values = array([0.04      , 0.04666667, 0.05333333, 0.06      , 0.06666667,
+       0.07333333, 0.08      , 0.08666667, 0.09333333, 0.1       ,
+       0.10666667, 0.11333333, 0.12      , 0.12666667, 0.13333333,
+       0.14      , 0.14666667, 0.15333333, 0.16      , 0.16666667,
+       0.17333333, 0.18      , 0.18666667, 0.19333333, 0.2       ])
+       
+       
+       
+       
+       
+       
+final_emittances: [1.82092699e-02 9.58496691e+07 1.88103628e+46 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00]
+delta20s: [1.63562861e-01 4.15657731e+01 2.55317511e+07 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00]
+delta50s: [5.31739923e-02 4.11646477e+04 2.48664072e+20 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00]
+delta100s: [2.44910737e-02 2.97016136e+08 1.58015285e+40 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00 0.00000000e+00 0.00000000e+00
+ 0.00000000e+00]
+turn50s: [6. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0.]
+cooling_times: [ 6.82214395e-06 -1.69629196e-02  6.20600000e-04  0.00000000e+00
+  0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00
+  0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00
+  0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00
+  0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00
+  0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00
+  0.00000000e+00]
+gainL_values = array([0.2       , 0.31666667, 0.43333333, 0.55      , 0.66666667,
+       0.78333333, 0.9       , 1.01666667, 1.13333333, 1.25      ,
+       1.36666667, 1.48333333, 1.6       , 1.71666667, 1.83333333,
+       1.95      , 2.06666667, 2.18333333, 2.3       , 2.41666667,
+       2.53333333, 2.65      , 2.76666667, 2.88333333, 3.        ])       
